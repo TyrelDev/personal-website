@@ -48,7 +48,7 @@ nav {
 
 .container {
     padding-top:2em;
-    width:1000px;
+    max-width:100%;
     margin:0 auto;
 }
 .intro h1 {
