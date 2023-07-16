@@ -37,3 +37,10 @@ nav {
 	padding:0.4rem 1rem;
 	border-radius:50px;
 }
+
+.hello-btn:hover {
+	background-color:#068FFF;
+	color:white;
+	border-radius:5px;
+	transition:all 2s;
+}
