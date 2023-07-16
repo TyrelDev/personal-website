@@ -183,3 +183,23 @@ left:3px;
 	padding-bottom:3rem;
 	text-align:center;
 }
+
+footer {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	padding:5rem 0;
+	background-color:#068FFF;
+}
+
+footer ul {
+	padding-bottom:3rem;
+	display:flex;
+	justify-content: space-around;
+	list-style-type:none;
+}
+
+footer ul li a {
+	text-decoration: none;
+	color:white;
+}
