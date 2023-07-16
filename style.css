@@ -149,6 +149,7 @@ left:3px;
 	display:flex;
 	justify-content: center;
 	width:100%;
+    gap:1.5em;
 }
 .skills {
 	position:relative;
