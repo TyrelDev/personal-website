@@ -70,3 +70,57 @@ nav {
     margin-bottom: 2em;
     border-radius: 50%;
 }
+
+.hero-container {
+	max-width:1000px;
+	margin:auto;
+}
+.hero {
+    padding:1rem;
+}
+.screen {
+position: relative;
+border:1px solid black;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+background-color:#f7f7f7;
+height:350px;
+}
+
+.bar {
+height:30px;
+width: 100%;
+position: relative;
+background-color:#292929;
+border-top-left-radius:5px;
+border-top-right-radius:5px;
+top:0;
+z-index: 0;
+}
+
+.btn {
+height:15px;
+width: 15px;
+background-color:green;
+position: relative;
+z-index: 1;
+display:inline-block;
+border:none;
+border-radius:50px;
+top:5px;
+left:15px;
+}
+
+.screen-bar {
+position: relative;
+list-style-type:none;
+display:flex;
+gap:10px;
+border-bottom:1px solid black;
+padding:2px 0;
+}
+
+.screen-bar li {
+position: relative;
+left:3px;
+}
