@@ -3,3 +3,18 @@
     padding:0;
     box-sizing: border-box;
 }
+
+header {
+    max-width:1000px;
+}
+
+nav {
+    display:flex;
+    justify-content: space-around;
+    padding:20px 0;
+}
+.navitems {
+    display: flex;
+    gap:20px;
+    align-items: center;
+}
