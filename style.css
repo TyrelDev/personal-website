@@ -124,3 +124,23 @@ padding:2px 0;
 position: relative;
 left:3px;
 }
+
+.about-container {
+	background-color:#068FFF;
+}
+
+.about-info {
+	padding:2rem 1.25rem 15rem 1.25rem;
+	margin:auto;
+	margin-top:6rem;
+	text-align:center;
+	color:white;
+}
+.about-info h1{
+	padding-bottom:2rem;
+	font-size:1.5rem;
+}
+
+.about-info p{
+	font-size:1.25rem;
+}
